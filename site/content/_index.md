@@ -1,6 +1,8 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Master Thinkers
+subtitle: >-
+  "We cannot solve our problems with the same thinking we used when we created
+  them." - Albert Einstein
 image: /img/skyline-2-wp-2.png
 blurb:
   heading: Why Kaldi?
